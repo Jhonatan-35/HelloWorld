@@ -19,4 +19,4 @@ The purpose of this project is to show the execution of the "hello world" messag
 # Useful Websites
 
 
-* [Web Site Name](https://www.tutorialesprogramacionya.com/pythonya/#google_vignette)
+* [Python site](https://www.tutorialesprogramacionya.com/pythonya/#google_vignette)
