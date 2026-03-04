@@ -8,7 +8,7 @@ The purpose of this project is to show the execution of the "hello world" messag
 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=UuuLveAvgHU)
 
 # Development Environment
 
@@ -18,5 +18,5 @@ The purpose of this project is to show the execution of the "hello world" messag
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+
 * [Web Site Name](https://www.tutorialesprogramacionya.com/pythonya/#google_vignette)
